@@ -697,5 +697,12 @@ export default [
     Apparently there’s been a “big project” that just came into light. One to make dragons even more powerful. I remain doubtful. Only incredibly powerful dragons can even attempt to be merged with Union technology. Look at incident report 56-2. That was a messy day.`,
     author: 'Xcircle',
     cardId: 'I7'
-  }
+  },
+  {
+    title: 'Wandering Wyrms',
+    content: '"There is a certain magic that permeates through the mires of Shadowfen. A dreadful miasma that lingers in the air no matter how much the wind decides to stir. When first entering the swamps, one would attribute the moist, fungal stench to corpses lurking just beneath the water's murky surface. Victims of war and sacrifice left to rot at the bottom of the lakebed for eternity, their stories forever silenced by Death's cold, ominous whisper. Alas, some stories refuse to die, forever shambling on as husks of a memory best left forgotten. Searching for a soul with whom they can share their story with, before crumbling to ash."
+    -Translated version of an old Raven's tale, recovered from a sunken tome.',
+    author: 'DoppleFock',
+    cardId: 'F9'
+  },
 ]
